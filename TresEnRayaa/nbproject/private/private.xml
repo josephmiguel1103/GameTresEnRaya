@@ -3,8 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/TresEnRayaa/src/tresenraya/juegologica.java</file>
-            <file>file:/D:/TresEnRayaa/src/tresenraya/ventana.java</file>
+            <file>file:/D:/POO/tresEnRaya/TresEnRaya/TresEnRayaa/src/tresenraya/ventana.java</file>
+            <file>file:/D:/POO/tresEnRaya/TresEnRaya/TresEnRayaa/src/tresenraya/util/UtilsX.java</file>
+            <file>file:/D:/POO/tresEnRaya/TresEnRaya/TresEnRayaa/src/tresenraya/dao/ResultadoDaoI.java</file>
+            <file>file:/D:/POO/tresEnRaya/TresEnRaya/TresEnRayaa/src/tresenraya/conx/ConnS.java</file>
+            <file>file:/D:/POO/tresEnRaya/TresEnRaya/TresEnRayaa/src/tresenraya/Modelo/ResultadoTO.java</file>
+            <file>file:/D:/POO/tresEnRaya/TresEnRaya/TresEnRayaa/src/tresenraya/juegologica.java</file>
+            <file>file:/D:/POO/tresEnRaya/TresEnRaya/TresEnRayaa/src/tresenraya/dao/ResultadoDAO.java</file>
+            <file>file:/D:/POO/tresEnRaya/TresEnRaya/TresEnRayaa/src/tresenraya/util/MsgBox.java</file>
+            <file>file:/D:/POO/tresEnRaya/TresEnRaya/TresEnRayaa/src/tresenraya/util/ErrorLogger.java</file>
         </group>
     </open-files>
 </project-private>

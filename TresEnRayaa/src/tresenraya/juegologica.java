@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Anthony
+ * @author josp
  */
 public class juegologica {
     int turno;

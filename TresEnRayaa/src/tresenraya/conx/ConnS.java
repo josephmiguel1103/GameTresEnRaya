@@ -13,7 +13,7 @@ import tresenraya.util.UtilsX;
 
 /**
  *
- * @author Hp
+ * @author josp
  */
 public class ConnS {
     private static volatile ConnS instance;

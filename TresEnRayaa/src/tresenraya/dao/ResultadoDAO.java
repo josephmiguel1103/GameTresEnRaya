@@ -19,7 +19,7 @@ import tresenraya.util.ErrorLogger;
 
 /**
  *
- * @author Hp
+ * @author josp
  */
 public class ResultadoDAO implements ResultadoDaoI{
     Statement stmt = null;
