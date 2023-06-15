@@ -58,7 +58,7 @@ public class ConnS {
                         String dbFilePath = util.getFileExterno("data", "db_oxo.db").getAbsolutePath();
                         String dbUrl = "jdbc:sqlite:" + dbFilePath;
                         connection = DriverManager.getConnection(dbUrl);
-                        System.out.println("tconexion exitosa");
+                        System.out.println("Conexion exitosa");
                     } catch (SQLException e) {
                         e.printStackTrace();
                     }

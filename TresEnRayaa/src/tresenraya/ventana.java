@@ -123,10 +123,10 @@ public class ventana extends javax.swing.JFrame {
 
         diagonal2.setBackground(new java.awt.Color(153, 153, 153));
         diagonal2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/dia2.png"))); // NOI18N
-        getContentPane().add(diagonal2, new org.netbeans.lib.awtextra.AbsoluteConstraints(-30, 90, -1, -1));
+        getContentPane().add(diagonal2, new org.netbeans.lib.awtextra.AbsoluteConstraints(-30, 100, -1, -1));
 
         diagonal1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/dia1.png"))); // NOI18N
-        getContentPane().add(diagonal1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 90, -1, -1));
+        getContentPane().add(diagonal1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 100, -1, -1));
 
         mediover.setBackground(new java.awt.Color(255, 0, 0));
         mediover.setForeground(new java.awt.Color(255, 0, 0));
@@ -356,7 +356,7 @@ public class ventana extends javax.swing.JFrame {
                 {null, null, null, null, null, null, null}
             },
             new String [] {
-                "N Participante", "id resultados", "N Jugador 1", "N Jugador 2", "N Ganador", "", "Estado"
+                "Nº Partida", "id resultados", "Jugador 1", "Jugador 2", "Ganador", "Punto", "Estado"
             }
         ) {
             Class[] types = new Class [] {
@@ -380,8 +380,8 @@ public class ventana extends javax.swing.JFrame {
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel4Layout.createSequentialGroup()
                 .addGap(16, 16, 16)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(19, Short.MAX_VALUE))
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 370, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(14, Short.MAX_VALUE))
         );
         jPanel4Layout.setVerticalGroup(
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -393,7 +393,7 @@ public class ventana extends javax.swing.JFrame {
 
         getContentPane().add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 300, 400, 240));
 
-        jPanel6.setBackground(new java.awt.Color(255, 204, 204));
+        jPanel6.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
         jPanel6.setLayout(jPanel6Layout);
@@ -418,7 +418,7 @@ public class ventana extends javax.swing.JFrame {
         getContentPane().add(txtJugador1, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 100, 160, 36));
         getContentPane().add(txtJugador2, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 160, 160, 37));
 
-        jPanel5.setBackground(new java.awt.Color(255, 255, 204));
+        jPanel5.setBackground(new java.awt.Color(255, 51, 51));
 
         pnlX.setBackground(new java.awt.Color(255, 204, 204));
 
